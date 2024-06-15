@@ -5,5 +5,6 @@
 
 # DAT SHOES !
 
-DatShoes! adalah sebuah aplikasi yang dirancang mengelola galeri dan data tentang sepatu. \n\n
+DatShoes! adalah sebuah aplikasi yang dirancang mengelola galeri dan data tentang sepatu.
+
 Copyright © 2024 Rizqy Nurfauzella
