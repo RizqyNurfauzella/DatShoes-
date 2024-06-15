@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DatShoes</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+
+    <string name="profil">Profil</string>
+    <string name="home">Beranda</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+
+    <string name="tambah_sepatu">Tambah Sepatu</string>
+    <string name="merk_sepatu">Merk Sepatu</string>
+    <string name="jenis_sepatu">Jenis Sepatu</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Delete</string>
+
+    <string name="kembali">Kembali</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">DatShoes! adalah sebuah aplikasi yang dirancang mengelola galeri dan data tentang sepatu.\n\nAplikasi ini dibuat untuk MiniProject3 Mobpro1.\n\n
+        Copyright © 2024 Rizqy Nurfauzella\nAll rights reserved.</string>
+</resources>
