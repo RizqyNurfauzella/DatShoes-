@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/blob/master/app/src/main/res/drawable-nodpi/logo.png" width="150">
-  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/blob/master/app/src/main/res/drawable-nodpi/text.png" width="20%">
+  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/blob/master/app/src/main/res/drawable-nodpi/text.png" width="40%">
 </p>
 
 # DAT SHOES !
