@@ -1,25 +1,41 @@
-<p align="center"> 
+<p align="center">
   <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/raw/master/app/src/main/res/drawable-nodpi/logo.png" width="150" alt="DatShoes Logo" />
-</p> 
-  
+</p>
+
 <h1 align="center"><b>👟 DatShoes!</b></h1>
-  
-📸 Galeri sepatu dalam genggaman.
-📦 Kelola data sepatu dengan mudah dan efisien.
 
-DatShoes! adalah aplikasi yang dirancang untuk membantu pengguna dalam mengelola koleksi dan data sepatu secara praktis. Aplikasi ini cocok bagi kolektor, pemilik toko, maupun siapa saja yang ingin menyimpan informasi sepatu secara terorganisir dan visual.
+> 📸 Galeri sepatu dalam genggaman  
+> 📦 Kelola data sepatu dengan mudah dan efisien
 
-✨ Fitur Unggulan:
-👟 Simpan dan tampilkan galeri sepatu dengan gambar menarik
+**DatShoes!** adalah aplikasi Android untuk membantu pengguna mengelola galeri dan informasi sepatu secara praktis dan terstruktur.
 
-📝 Tambahkan detail informasi sepatu dengan mudah
+---
 
-🧾 Kelola data sepatu secara terstruktur
+### ✨ Fitur Unggulan
+- 🖼️ Galeri sepatu lengkap dengan gambar
+- 📝 Tambahkan & edit data sepatu
+- 🔍 Fitur pencarian
+- 🌙 Mode gelap untuk kenyamanan pengguna
+- 🌐 Terintegrasi dengan RESTful API (backend: Node.js)
 
-🔍 Cari sepatu berdasarkan nama atau kategori
+---
 
-🌙 Mode gelap untuk pengalaman pengguna yang nyaman
+### 🧪 Teknologi
+- 💻 Kotlin (Native Android)
+- 📊 RecyclerView, Glide
+- 🌐 Retrofit untuk komunikasi API
+- 📁 MVVM Architecture
 
+---
 
+### 🚀 Cara Menjalankan
+1. Clone repository ini  
+2. Buka di Android Studio  
+3. Jalankan emulator / perangkat fisik  
+4. Pastikan API backend aktif (lihat: [API Sepatu](https://github.com/RizqyNurfauzella/api-sepatu))
+
+---
+
+💡 **DatShoes! dibuat untuk para sneakerhead dan pebisnis sepatu digital.**
 
 <p align="center"><sub>Copyright © 2024 Rizqy Nurfauzella</sub></p>
