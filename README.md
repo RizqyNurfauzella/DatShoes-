@@ -20,8 +20,6 @@ DatShoes! adalah aplikasi yang dirancang untuk membantu pengguna dalam mengelola
 
 🌙 Mode gelap untuk pengalaman pengguna yang nyaman
 
-💡 DatShoes! dibuat untuk para penggemar sepatu yang ingin semuanya serba rapi dan mudah.
 
-📂 Lihat kode sumber di GitHub
 
 <p align="center"><sub>Copyright © 2024 Rizqy Nurfauzella</sub></p>
