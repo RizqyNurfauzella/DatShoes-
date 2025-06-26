@@ -1,10 +1,27 @@
-<p align="left">
-  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/blob/master/app/src/main/res/drawable-nodpi/logo.png" width="200">
-  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/blob/master/app/src/main/res/drawable-nodpi/text.png" width="20%">
-</p>
+<p align="center"> 
+  <img src="https://github.com/RizqyNurfauzella/Assessment3Mobpro/raw/master/app/src/main/res/drawable-nodpi/logo.png" width="150" alt="DatShoes Logo" />
+</p> 
+  
+<h1 align="center"><b>👟 DatShoes!</b></h1>
+  
+📸 Galeri sepatu dalam genggaman.
+📦 Kelola data sepatu dengan mudah dan efisien.
 
-# DAT SHOES !
+DatShoes! adalah aplikasi yang dirancang untuk membantu pengguna dalam mengelola koleksi dan data sepatu secara praktis. Aplikasi ini cocok bagi kolektor, pemilik toko, maupun siapa saja yang ingin menyimpan informasi sepatu secara terorganisir dan visual.
 
-DatShoes! adalah sebuah aplikasi yang dirancang mengelola galeri dan data tentang sepatu.
+✨ Fitur Unggulan:
+👟 Simpan dan tampilkan galeri sepatu dengan gambar menarik
 
-Copyright © 2024 Rizqy Nurfauzella
+📝 Tambahkan detail informasi sepatu dengan mudah
+
+🧾 Kelola data sepatu secara terstruktur
+
+🔍 Cari sepatu berdasarkan nama atau kategori
+
+🌙 Mode gelap untuk pengalaman pengguna yang nyaman
+
+💡 DatShoes! dibuat untuk para penggemar sepatu yang ingin semuanya serba rapi dan mudah.
+
+📂 Lihat kode sumber di GitHub
+
+<p align="center"><sub>Copyright © 2024 Rizqy Nurfauzella</sub></p>
